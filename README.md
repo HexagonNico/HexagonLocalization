@@ -20,11 +20,11 @@ You may delete this folder after you have looked at the example scene.
 
 ### Setup and installation
 
-* [Installing and quick start]().
+* [Installing and quick start](Documentation/Installation.md).
 
 ### How to add languages
 
-* [Add a LanguagesAsset]().
+* [Add a LanguagesAsset](Documentation/LanguagesAsset.md).
 * [Use the LanguagesAsset in LanguageSettings]().
 
 ### How to add translations
