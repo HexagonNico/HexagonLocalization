@@ -20,8 +20,8 @@ If you have installed everything correctly, you should be able to create assets 
 
 Go to *Assets => Create => HexagonLocalization* and you should see all the assets added by the package.
 
-The [Languages asset]() is the asset that will contain all the languages your game is translated into. You will only need one in your project.
+The [Languages asset](LanguagesAsset.md) is the asset that will contain all the languages your game is translated into. You will only need one in your project.
 
-The other four are [translations assets](), they will be used to write and apply translations for your game.
+The other four are [translations assets](CreateTranslation.md), they will be used to write and apply translations for your game.
 
-If you click on the *Add component* button on any object in your scene you should now be able to see a section called *Hexagon Localization* that contains all the [translator components]() and the [LanguageSettings]() component.
+If you click on the *Add component* button on any object in your scene you should now be able to see a section called *Hexagon Localization* that contains all the [translator components](ApplyTranslation.md) and the [LanguageSettings](LanguageSettings.md) component.

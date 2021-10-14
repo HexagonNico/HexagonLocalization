@@ -25,33 +25,35 @@ You may delete this folder after you have looked at the example scene.
 ### How to add languages
 
 * [Add a LanguagesAsset](Documentation/LanguagesAsset.md).
-* [Use the LanguagesAsset in LanguageSettings]().
+* [Use the LanguagesAsset in LanguageSettings](Documentation/LanguageSettings.md).
 
 ### How to add translations
 
-* [Create a translation]().
-* [Apply a translation with a translator component]().
+* [Create a translation](Documentation/CreateTranslation.md).
+* [Apply a translation with a translator component](Documentation/ApplyTranslation.md).
+* [Update translations when the language is changed](Documentation/ApplyTranslation.md/Update-Translation).
 
 ### Supported translation types
 
-* [StringTranslation]().
-* [TextTranslation]().
-* [SpriteTranslation]().
-* [AudioTranslation]().
+* [StringTranslation](Documentation/StringTranslation.md).
+* [TextTranslation](Documentation/TextTranslation.md).
+* [SpriteTranslation](Documentation/SpriteTranslation.md).
+* [AudioTranslation](Documentation/AudioTranslation.md).
 
-### How to apply translations
+### Supported translators
 
-* [Translator components]().
-* [Modify the current language with LanguageSettings]().
+* [TextTranslator](Documentation/TextTranslator.md)
+* [SpriteTranslator](Documentation/SpriteTranslator.md)
+* [AudioTranslator](Documentation/AudioTranslator.md)
 
 ### Language settings
 
-* [The LanguageSettings component]().
-* [Chosing a default language]().
-* [Changing the current language]().
-* [Get the language from the user's system language]().
+* [The LanguageSettings component](Documentation/LanguageSettings.md).
+* [Chosing a default language](Documentation/LanguageSettings.md).
+* [Changing the current language](Documentation/LanguageSettings.md/Modify-the-current-language).
+* [Get the language from the user's system language](Documentation/LanguageSettings.md).
 
 ### Extra customization with C# scripts
 
-* [Add a new type of translation]().
-* [Add a new type of translator]().
+* [Add a new type of translation](Documentation/CustomTranslation.md).
+* [Add a new type of translator](Documentation/CustomTranslator.md).
